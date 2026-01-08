@@ -1,0 +1,24 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node inventory.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^5.2.3",
+    "@types/node": "^25.0.3",
+    "@types/sinon": "^21.0.0",
+    "@types/sinon-chai": "^4.0.0",
+    "chai": "^4.3.7",
+    "sinon": "^21.0.1",
+    "sinon-chai": "^3.7.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
